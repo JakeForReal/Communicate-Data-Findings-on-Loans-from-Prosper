@@ -1,10 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Communicating Data Findings : Udacity Data Analyst Nanodegree Project
+## by Jacob Bedard
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+> For this project I'm using the Prosper Loans dataset as I am interested in personal finance.  Original dataset can be downloaded from the internet [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv), as well as a guide to the variables in the dataset found [here](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554486256024000).
 
 
 ## Summary of Findings
