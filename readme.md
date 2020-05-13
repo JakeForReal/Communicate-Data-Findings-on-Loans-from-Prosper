@@ -9,9 +9,8 @@
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
+> Exploring the data, I did find that each of my variables of interest had a correlation with my main variable of interest: borrower APR.  As expected, Prosper rating had the largest correlation with borrower APR (a negative correlation), which was not unexpected.  What I did find that was unexpected, was that APR actually increased with larger loan sizes for the two highest rating tiers, A and AA, while it decresed for the lower rating tiers. This is counter-intuitive to what one might expect in traditional financing. 
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> It was in following the above finding about APRs trending upwards for the higher rating class as loan size increased that lead me to look deeper, and in so doing, I found that it was the medium and long term loans (36 and 60 month) that were the worst bargain for high-tier loan shoppers, which again is counter-intuitive to what one would expect from traditional lenders.
