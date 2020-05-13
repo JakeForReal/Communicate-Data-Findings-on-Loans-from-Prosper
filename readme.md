@@ -14,3 +14,7 @@
 ## Key Insights for Presentation
 
 > It was in following the above finding about APRs trending upwards for the higher rating class as loan size increased that lead me to look deeper, and in so doing, I found that it was the medium and long term loans (36 and 60 month) that were the worst bargain for high-tier loan shoppers, which again is counter-intuitive to what one would expect from traditional lenders.
+
+## References
+
+> For this exploration I used the Udacity course lesson material, online reference documentation for the Seaborn package, and StackOverflow.
